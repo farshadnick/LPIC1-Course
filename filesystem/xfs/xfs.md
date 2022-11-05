@@ -1,11 +1,11 @@
 **ZFS Features** :
-. Pooled Storage
-. Copy On Write
-. Snapshots
-. Data Integrity
-. Automatic Repair
-. Suport for Raid and raid-Z
-. 128-bit Filesystem 
+1. Pooled Storage
+1. Copy On Write
+1. Snapshots
+1. Data Integrity
+1. Automatic Repair
+1. Suport for Raid and raid-Z
+1. 128-bit Filesystem 
   (16 exabyte max filesize
    256 quadrillion zebibytes max fileststem size)
 
